@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 This is Bish and I am many things! 😄
+ 
 <!--
 **TheEverlastingBish/TheEverlastingBish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
