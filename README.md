@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Stats
+
+Here is a summary of the key Git statistics:
+<!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+![Bish's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEverlastingBish&show_icons=true&theme=tokyonight&title_color='#8E44AD')
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEverlastingBish&hide=html,css,tex&theme=tokyonight&title_color='#8E44AD')](https://github.com/anuraghazra/github-readme-stats)
