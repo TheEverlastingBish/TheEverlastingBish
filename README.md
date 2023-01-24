@@ -22,6 +22,8 @@ Here is a summary of the key Git statistics:
 ![](https://github.com/TheEverlastingBish/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/TheEverlastingBish/github-stats/blob/master/generated/languages.svg)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TheEverlastingBish)](https://git.io/streak-stats)
+
 <!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <!-- ![Bish's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEverlastingBish&show_icons=true&theme=tokyonight&title_color='#8E44AD') -->
 
