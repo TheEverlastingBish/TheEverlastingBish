@@ -17,17 +17,13 @@ Here are some ideas to get you started:
 
 #### Stats
 
-Here is a summary of the key Git statistics:
-
-![](https://github.com/TheEverlastingBish/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/TheEverlastingBish/github-stats/blob/master/generated/languages.svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TheEverlastingBish)](https://git.io/streak-stats)
-
+<a href="https://github.com/TheEverlastingBish/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheEverlastingBish&show_icons=true&theme=gruvbox_light&include_all_commits=true&show=prs_merged" />
+</a>
 <!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-<!-- ![Bish's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheEverlastingBish&show_icons=true&theme=tokyonight&title_color='#8E44AD') -->
+<a href="https://github.com/TheEverlastingBish/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEverlastingBish&theme=gruvbox_light&layout=compact&langs_count=10" />
+</a>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheEverlastingBish&hide=html,css,tex&theme=tokyonight&title_color='#8E44AD')](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <img src="https://streak-stats.demolab.com?user=TheEverlastingBish&theme=gruvbox-light&card_width=745&card_height=200" alt="GitHub Streak" /> -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=TheEverlastingBish)](https://git.io/streak-stats) -->
